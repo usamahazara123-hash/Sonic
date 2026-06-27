@@ -1,0 +1,14 @@
+{
+  "name": "SONIC - Personal AI Assistant",
+  "short_name": "SONIC",
+  "description": "Your Personal AI Assistant",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0e1a",
+  "theme_color": "#00d4ff",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "https://via.placeholder.com/192x192/00d4ff/0a0e1a?text=S", "sizes": "192x192", "type": "image/png" },
+    { "src": "https://via.placeholder.com/512x512/00d4ff/0a0e1a?text=S", "sizes": "512x512", "type": "image/png" }
+  ]
+}
